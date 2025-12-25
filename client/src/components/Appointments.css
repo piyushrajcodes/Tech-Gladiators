@@ -1,0 +1,71 @@
+.appointments-container {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  margin: 20px;
+}
+
+.appointments-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.appointments-header h2 {
+  color: #343a40;
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+/* Customizing react-big-calendar */
+.rbc-calendar {
+  font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.rbc-header {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 0;
+  border-bottom: 1px solid #0056b3;
+}
+
+.rbc-off-range-bg {
+  background-color: #e9ecef; /* Light grey for off-range days */
+}
+
+.rbc-today {
+  background-color: #fff3cd; /* Light yellow for today */
+}
+
+.rbc-event {
+  background-color: #28a745; /* Green for events */
+  border-radius: 5px;
+  padding: 2px 5px;
+  font-size: 0.9rem;
+}
+
+.rbc-selected {
+  background-color: #ffc107; /* Yellow for selected slot */
+}
+
+.rbc-toolbar button {
+  color: #007bff;
+  border-color: #007bff;
+}
+
+.rbc-toolbar button:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.rbc-toolbar button.rbc-active {
+  background-color: #007bff;
+  color: white;
+}

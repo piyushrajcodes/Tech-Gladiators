@@ -1,0 +1,52 @@
+
+.monitoring-container {
+    padding: 20px;
+    background-color: #f0f2f5;
+}
+
+.city-selector {
+    margin-bottom: 20px;
+}
+
+.monitoring-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.monitoring-card {
+    background-color: #454343;
+    border-left-color: green;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.monitoring-card h5 {
+    margin-bottom: 15px;
+}
+
+.risk-Good {
+    color: green;
+    border-left-color: green;
+}
+
+.risk-Moderate {
+    color: orange;
+    border-left-color: orange;
+}
+
+.risk-High {
+    color: red;
+    border-left-color: red;
+}
+
+.risk-Poor {
+    color: darkred;
+    border-left-color: darkred;
+}
+
+.risk-Low {
+    color: blue;
+    border-left-color: blue;
+}
