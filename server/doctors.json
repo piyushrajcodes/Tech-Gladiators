@@ -1,0 +1,29 @@
+
+[
+  {
+    "name": "Dr. John Doe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "profilePicture": "https://example.com/profile.jpg",
+    "specialty": "Cardiologist",
+    "about": "Dr. John Doe is a board-certified cardiologist with over 10 years of experience.",
+    "degree": "MD, FACC",
+    "experience": 10,
+    "fees": 150,
+    "address": "123 Main St, Anytown, USA",
+    "isAvailable": true
+  },
+  {
+    "name": "Dr. Jane Smith",
+    "email": "jane.smith@example.com",
+    "password": "password123",
+    "profilePicture": "https://example.com/profile.jpg",
+    "specialty": "Dermatologist",
+    "about": "Dr. Jane Smith is a leading expert in dermatology with a focus on cosmetic procedures.",
+    "degree": "MD",
+    "experience": 8,
+    "fees": 200,
+    "address": "456 Oak Ave, Anytown, USA",
+    "isAvailable": true
+  }
+]

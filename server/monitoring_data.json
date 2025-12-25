@@ -1,0 +1,116 @@
+{
+  "cities": [
+    {
+      "name": "Guwahati",
+      "commonDiseases": ["Dengue", "Malaria"],
+      "airQuality": 150,
+      "waterQuality": 50,
+      "wasteManagement": "Poor",
+      "sewageManagement": "Poor",
+      "noise_pollution": "High",
+      "health_risk_score": 7,
+      "precautions": {
+        "Dengue": "Use mosquito repellent, wear long-sleeved clothing, and eliminate mosquito breeding sites.",
+        "Malaria": "Take anti-malarial medication, use mosquito nets, and avoid going out during peak mosquito hours."
+      }
+    },
+    {
+      "name": "Shillong",
+      "commonDiseases": ["Influenza", "Pneumonia"],
+      "airQuality": 80,
+      "waterQuality": 80,
+      "wasteManagement": "Good",
+      "sewageManagement": "Good",
+      "noise_pollution": "Low",
+      "health_risk_score": 4,
+      "precautions": {
+        "Influenza": "Get vaccinated, wash hands frequently, and avoid close contact with sick people.",
+        "Pneumonia": "Get vaccinated, wash hands frequently, and don't smoke."
+      }
+    },
+    {
+      "name": "Imphal",
+      "commonDiseases": ["Typhoid", "Hepatitis A"],
+      "airQuality": 120,
+      "waterQuality": 60,
+      "wasteManagement": "Moderate",
+      "sewageManagement": "Moderate",
+      "noise_pollution": "Moderate",
+      "health_risk_score": 6,
+      "precautions": {
+        "Typhoid": "Get vaccinated, eat and drink only safe food and water, and wash hands frequently.",
+        "Hepatitis A": "Get vaccinated, wash hands frequently, and eat and drink only safe food and water."
+      }
+    },
+    {
+      "name": "Agartala",
+      "commonDiseases": ["Chikungunya", "Dengue"],
+      "airQuality": 160,
+      "waterQuality": 40,
+      "wasteManagement": "Poor",
+      "sewageManagement": "Poor",
+      "noise_pollution": "High",
+      "health_risk_score": 8,
+      "precautions": {
+        "Chikungunya": "Use mosquito repellent, wear long-sleeved clothing, and eliminate mosquito breeding sites.",
+        "Dengue": "Use mosquito repellent, wear long-sleeved clothing, and eliminate mosquito breeding sites."
+      }
+    },
+    {
+      "name": "Itanagar",
+      "commonDiseases": ["Scrub Typhus", "Leptospirosis"],
+      "airQuality": 90,
+      "waterQuality": 90,
+      "wasteManagement": "Good",
+      "sewageManagement": "Good",
+      "noise_pollution": "Low",
+      "health_risk_score": 5,
+      "precautions": {
+        "Scrub Typhus": "Avoid contact with infected chiggers, use insect repellent, and wear protective clothing.",
+        "Leptospirosis": "Avoid contact with contaminated water, wear protective clothing, and get vaccinated."
+      }
+    },
+    {
+      "name": "Aizawl",
+      "commonDiseases": ["Japanese Encephalitis", "Malaria"],
+      "airQuality": 70,
+      "waterQuality": 90,
+      "wasteManagement": "Good",
+      "sewageManagement": "Good",
+      "noise_pollution": "Low",
+      "health_risk_score": 3,
+      "precautions": {
+        "Japanese Encephalitis": "Get vaccinated, use mosquito repellent, and wear long-sleeved clothing.",
+        "Malaria": "Take anti-malarial medication, use mosquito nets, and avoid going out during peak mosquito hours."
+      }
+    },
+    {
+      "name": "Kohima",
+      "commonDiseases": ["Diphtheria", "Pertussis"],
+      "airQuality": 60,
+      "waterQuality": 90,
+      "wasteManagement": "Good",
+      "sewageManagement": "Good",
+      "noise_pollution": "Low",
+      "health_risk_score": 2,
+      "precautions": {
+        "Diphtheria": "Get vaccinated.",
+        "Pertussis": "Get vaccinated."
+      }
+    },
+    {
+      "name": "Gangtok",
+      "commonDiseases": ["Acute Respiratory Infection", "Diarrhoeal Diseases"],
+      "airQuality": 50,
+      "waterQuality": 90,
+      "wasteManagement": "Good",
+      "sewageManagement": "Good",
+      "noise_pollution": "Low",
+      "health_risk_score": 2,
+      "precautions": {
+        "Acute Respiratory Infection": "Wash hands frequently, avoid close contact with sick people, and get vaccinated.",
+        "Diarrhoeal Diseases": "Drink safe water, wash hands frequently, and eat properly cooked food."
+      }
+    }
+  ]
+}
