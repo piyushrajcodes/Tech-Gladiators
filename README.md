@@ -1,5 +1,3 @@
----
-
 # 🛡️ Health Mitra: AI-Powered Rural Healthcare & Outbreak Prediction
 
 Developed by **Team Tech Gladiators** for **TechSprint** at **Google Developer Groups On Campus - OIST**.
@@ -8,7 +6,6 @@ Developed by **Team Tech Gladiators** for **TechSprint** at **Google Developer G
 
 **Health Mitra** is an integrated health platform designed to combat the high prevalence of waterborne diseases (such as diarrhea, cholera, and typhoid) in rural Northeast India. By leveraging AI, IoT, and offline-first architecture, the platform bridges the gap between remote villages and timely medical intervention.
 
----
 
 ## 🚀 Key Features
 
