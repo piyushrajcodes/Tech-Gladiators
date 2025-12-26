@@ -125,11 +125,7 @@ Developed by **Team Tech Gladiators** for **TechSprint** at **Google Developer G
 
 ## 👥 Team: Tech Gladiators
 
-* 
-
-
-* 
-**Institution:** Oriental Group of Institutions (OCT)
+## 🏫 Institution:** Oriental Group of Institutions (OCT)
 
 
 
