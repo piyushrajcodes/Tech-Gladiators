@@ -11,54 +11,43 @@ Developed by **Team Tech Gladiators** for **TechSprint** at **Google Developer G
 
 ### 🧠 Intelligence & Analytics
 
-* 
-**AI/ML Outbreak Prediction:** Detects spikes and predicts the spread of diseases based on symptoms and environmental data.
+* **AI/ML Outbreak Prediction:** Detects spikes and predicts the spread of diseases based on symptoms and environmental data.
 
 
-* 
-**Symptom-Based Detection:** AI-driven preliminary diagnosis based on user-inputted symptoms.
+* **Symptom-Based Detection:** AI-driven preliminary diagnosis based on user-inputted symptoms.
 
 
-* 
-**Prescription Recognition:** AI tool to read and interpret medical prescriptions for better medicine adherence.
+* **Prescription Recognition:** AI tool to read and interpret medical prescriptions for better medicine adherence.
 
 
-* 
-**Dynamic Risk Heatmaps:** Visualizes outbreak hotspots for health officials to prioritize resources.
+* **Dynamic Risk Heatmaps:** Visualizes outbreak hotspots for health officials to prioritize resources.
 
 
 
 ### 📶 Accessibility & Offline Support
 
-* 
-**Offline-First Architecture:** Ensures functionality in remote areas with no internet access.
+* **Offline-First Architecture:** Ensures functionality in remote areas with no internet access.
 
 
-* 
-**Multilingual Voice Chatbot:** An AI assistant that supports local languages and voice input for low-literacy users.
+* **Multilingual Voice Chatbot:** An AI assistant that supports local languages and voice input for low-literacy users.
 
 
-* 
-**SMS Alert System:** Sends real-time health alerts and notifications via SMS to bypass data connectivity issues.
+* **SMS Alert System:** Sends real-time health alerts and notifications via SMS to bypass data connectivity issues.
 
 
 
 ### 🏥 Healthcare Management
 
-* 
-**Family Health Card:** Digital profiles for managing health records for the entire household.
+* **Family Health Card:** Digital profiles for managing health records for the entire household.
 
 
-* 
-**Medical Report Vault:** A secure, encrypted digital storage for all health records.
+* **Medical Report Vault:** A secure, encrypted digital storage for all health records.
 
 
-* 
-**Doctor Video Consultation:** Remote access to medical professionals.
+* **Doctor Video Consultation:** Remote access to medical professionals.
 
 
-* 
-**IoT Integration:** Real-time water quality monitoring using IoT sensors and test kits.
+* **IoT Integration:** Real-time water quality monitoring using IoT sensors and test kits.
 
 
 
@@ -88,20 +77,16 @@ Developed by **Team Tech Gladiators** for **TechSprint** at **Google Developer G
 
 ## 🎯 Target Audience
 
-* 
-**Rural Communities:** Primary beneficiaries in Northeast India.
+* **Rural Communities:** Primary beneficiaries in Northeast India.
 
 
-* 
-**Frontline Health Workers:** ASHA workers, ANMs, and local NGOs.
+* **Frontline Health Workers:** ASHA workers, ANMs, and local NGOs.
 
 
-* 
-**Public Health Departments:** State Health Ministries and MoHFW.
+* **Public Health Departments:** State Health Ministries and MoHFW.
 
 
-* 
-**Local Governance:** Panchayats and Village Councils.
+* **Local Governance:** Panchayats and Village Councils.
 
 
 
@@ -109,20 +94,16 @@ Developed by **Team Tech Gladiators** for **TechSprint** at **Google Developer G
 
 ## 📈 Expected Impact
 
-* 
-**50-75% Reduction** in waterborne disease prevalence.
+* **50-75% Reduction** in waterborne disease prevalence.
 
 
-* 
-**80-100% Population Coverage** through easy-to-use community interfaces.
+* **80-100% Population Coverage** through easy-to-use community interfaces.
 
 
-* 
-**Economic Savings:** Reduced travel costs and hospital overload through early detection.
+* **Economic Savings:** Reduced travel costs and hospital overload through early detection.
 
 
-* 
-**Sustainability:** Digital records reduce paper waste and environmental footprint.
+* **Sustainability:** Digital records reduce paper waste and environmental footprint.
 
 
 
@@ -130,16 +111,13 @@ Developed by **Team Tech Gladiators** for **TechSprint** at **Google Developer G
 
 ## 🔮 Future Roadmap
 
-1. 
-**Blockchain Integration:** To enhance the security and privacy of sensitive health records.
+1. **Blockchain Integration:** To enhance the security and privacy of sensitive health records.
 
 
-2. 
-**National Integration:** Aligning the platform with the National Digital Health Mission.
+2. **National Integration:** Aligning the platform with the National Digital Health Mission.
 
 
-3. 
-**Global Scalability:** Adapting the model for other developing regions worldwide.
+3. **Global Scalability:** Adapting the model for other developing regions worldwide.
 
 
 
@@ -151,7 +129,7 @@ Developed by **Team Tech Gladiators** for **TechSprint** at **Google Developer G
 
 
 * 
-**Institution:** Oriental Group of Institutions. 
+**Institution:** Oriental Group of Institutions (OCT)
 
 
 
